@@ -1,0 +1,16 @@
+﻿@using System.Web.Optimization
+@section scripts{
+    <script src="~/Scripts/lib/require.js" data-main="@Url.Content("~/Scripts/src/init.js")"></script>
+    @Scripts.Render("~/bundles/jquery"
+            , "~/bundles/angular"
+            , "~/bundles/angular-sanitize"
+            , "~/bundles/angular-route"
+            , "~/bundles/angular-resource")
+    <script>
+        require(['padawan/application/padawanApp'], function () {
+            angular.bootstrap($("#body")[0], ['padawanApp']);
+        });
+    </script>
+}
+<div ng-view></div>
+

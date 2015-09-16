@@ -1,0 +1,59 @@
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\obj\Debug\Padawan.Javascript.Test.csprojResolveAssemblyReference.cache
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\Padawan.Javascript.Test.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\Padawan.Javascript.Test.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\obj\Debug\Padawan.Javascript.Test.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\obj\Debug\Padawan.Javascript.Test.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Mvc.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Optimization.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.Tracing.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\Padawan.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Mvc.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Optimization.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.Tracing.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\Padawan.Javascript.Test.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\Padawan.Javascript.Test.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Mvc.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Optimization.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.Tracing.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\Padawan.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Mvc.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Optimization.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.Tracing.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\obj\Debug\Padawan.Javascript.Test.csprojResolveAssemblyReference.cache
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\obj\Debug\Padawan.Javascript.Test.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\obj\Debug\Padawan.Javascript.Test.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan.Javascript.Test\bin\Debug\Padawan.Javascript.Test.dll.config

@@ -1,0 +1,12 @@
+﻿@using System.Web.Optimization
+@*Core Jasmine Libraries*@
+<link type="text/css" href="~/content/css/jasmine.css" rel="stylesheet" />
+@Scripts.Render("~/bundles/jasmine", "~/bundles/angular-mocks")
+
+@*Spec Files to run the tests*@
+<script type="text/javascript">
+    require([
+        'padawan/spec/padawanSpec'
+    ], function () {
+    });
+</script>

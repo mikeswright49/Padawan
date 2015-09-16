@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Powerful you have become, the dark side I sense in you</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+    </head>
+    <body>
+        <div id="body">
+            @RenderBody()
+        </div>
+        @RenderSection("scripts", required: false)
+        @if (Padawan.Common.ApplicationParameter.RunSpecs)
+        {
+            @Html.Partial("_SpecRunner")
+        }
+    </body>
+</html>

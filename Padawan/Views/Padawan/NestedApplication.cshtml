@@ -1,0 +1,23 @@
+﻿@model dynamic
+@{
+    Layout = null;
+}
+<script>
+        var module = angular.module('padawanApp');
+        module.controller('nestedAppController', function () {
+            console.log('I Exist!');
+        });
+</script>
+<div ng-controller="nestedAppController">
+    Hello World!
+</div>
+
+<script>
+    var module = angular.module('padawanApp');
+    module.controller('aBrandNewController', ['$scope', function () {
+        console.log('I Also Exist!');
+    }]);
+</script>
+<div ng-controller="aBrandNewController">
+    Hello World!
+</div>

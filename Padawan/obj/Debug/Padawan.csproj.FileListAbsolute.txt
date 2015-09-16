@@ -1,0 +1,468 @@
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\obj\Debug\Padawan.csprojResolveAssemblyReference.cache
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Padawan.dll.config
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Padawan.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Antlr3.Runtime.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.Core.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\EntityFramework.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Microsoft.Data.Edm.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Microsoft.Data.OData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Newtonsoft.Json.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Net.Http.Formatting.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Spatial.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Helpers.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Http.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Http.OData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Http.Tracing.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Http.WebHost.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Mvc.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Optimization.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.WebPages.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.WebPages.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\WebGrease.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\WebMatrix.Data.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\WebMatrix.WebData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\EntityFramework.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Newtonsoft.Json.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Net.Http.Formatting.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Helpers.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Http.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Http.WebHost.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Mvc.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.WebPages.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.WebPages.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\WebMatrix.Data.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Http.Tracing.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\WebMatrix.WebData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.Core.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Web.Http.OData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Microsoft.Data.Edm.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\Microsoft.Data.OData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\System.Spatial.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\de\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\es\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\fr\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\it\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\ja\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\ko\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\ru\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\obj\Debug\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Padawan\Padawan\obj\Debug\Padawan.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Padawan.dll.config
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Padawan.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Antlr3.Runtime.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.Core.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\EntityFramework.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Microsoft.Data.Edm.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Microsoft.Data.OData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Newtonsoft.Json.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Net.Http.Formatting.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Spatial.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Helpers.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Http.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Http.OData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Http.Tracing.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Http.WebHost.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Mvc.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Optimization.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.WebPages.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.WebPages.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\WebGrease.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\WebMatrix.Data.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\WebMatrix.WebData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Antlr3.Runtime.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Newtonsoft.Json.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Net.Http.Formatting.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Helpers.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Http.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Mvc.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Optimization.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.WebPages.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.WebPages.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\EntityFramework.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Http.WebHost.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\WebMatrix.Data.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Http.Tracing.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\WebMatrix.WebData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.Core.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Web.Http.OData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Microsoft.Data.Edm.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Microsoft.Data.OData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Spatial.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\de\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\es\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\fr\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\it\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\ja\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\ko\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\ru\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\obj\Debug\Padawan.csprojResolveAssemblyReference.cache
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\obj\Debug\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\obj\Debug\Padawan.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\Microsoft.Web.Helpers.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Net.Http.Extensions.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Net.Http.Primitives.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Net.Http.Extensions.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\bin\System.Net.Http.Primitives.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Sith\Padawan\obj\Debug\Padawan.csproj.App.config
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Padawan.dll.config
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Padawan.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Antlr3.Runtime.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.Core.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\EntityFramework.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Microsoft.Data.Edm.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Microsoft.Data.OData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Microsoft.Web.Helpers.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Newtonsoft.Json.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Net.Http.Extensions.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Net.Http.Formatting.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Net.Http.Primitives.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Spatial.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Helpers.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Http.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Http.OData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Http.Tracing.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Http.WebHost.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Mvc.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Optimization.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.WebPages.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.WebPages.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\WebGrease.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\WebMatrix.Data.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\WebMatrix.WebData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Antlr3.Runtime.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Newtonsoft.Json.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Net.Http.Extensions.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Net.Http.Formatting.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Net.Http.Primitives.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Helpers.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Http.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Http.WebHost.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Mvc.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Optimization.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.WebPages.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.WebPages.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\EntityFramework.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Http.Tracing.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.Core.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Web.Http.OData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Microsoft.Data.Edm.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\Microsoft.Data.OData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\System.Spatial.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\WebMatrix.Data.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\WebMatrix.WebData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\de\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\es\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\fr\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\it\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\ja\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\ko\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\ru\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\obj\Debug\Padawan.csproj.App.config
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\obj\Debug\Padawan.csprojResolveAssemblyReference.cache
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\obj\Debug\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Jedi\Padawan\obj\Debug\Padawan.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Padawan.dll.config
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Padawan.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Antlr3.Runtime.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.Core.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\EntityFramework.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Microsoft.Data.Edm.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Microsoft.Data.OData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Microsoft.Web.Helpers.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Newtonsoft.Json.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Net.Http.Extensions.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Net.Http.Formatting.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Net.Http.Primitives.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Spatial.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Helpers.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Http.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Http.OData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Http.Tracing.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Http.WebHost.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Mvc.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Optimization.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.WebPages.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.WebPages.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\WebGrease.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\WebMatrix.Data.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\WebMatrix.WebData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Antlr3.Runtime.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Newtonsoft.Json.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Net.Http.Extensions.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Net.Http.Formatting.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Net.Http.Primitives.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Helpers.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Http.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Http.WebHost.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Mvc.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Optimization.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.WebPages.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.WebPages.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\EntityFramework.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Http.Tracing.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.Core.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Web.Http.OData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Microsoft.Data.Edm.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\Microsoft.Data.OData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\System.Spatial.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\WebMatrix.Data.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\WebMatrix.WebData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\de\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\es\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\fr\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\it\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\ja\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\ko\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\ru\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\obj\Debug\Padawan.csproj.App.config
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\obj\Debug\Padawan.csprojResolveAssemblyReference.cache
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\obj\Debug\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Master\Padawan\obj\Debug\Padawan.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Padawan.dll.config
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Padawan.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Antlr3.Runtime.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.Core.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\EntityFramework.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Microsoft.Data.Edm.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Microsoft.Data.OData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Microsoft.Web.Helpers.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Newtonsoft.Json.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Net.Http.Extensions.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Net.Http.Formatting.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Net.Http.Primitives.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Spatial.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Helpers.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Http.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Http.OData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Http.Tracing.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Http.WebHost.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Mvc.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Optimization.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.WebPages.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.WebPages.Razor.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\WebGrease.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\WebMatrix.Data.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\WebMatrix.WebData.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Antlr3.Runtime.pdb
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Newtonsoft.Json.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Net.Http.Extensions.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Net.Http.Formatting.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Net.Http.Primitives.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Helpers.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Http.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Http.WebHost.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Mvc.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Optimization.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.WebPages.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.WebPages.Razor.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\EntityFramework.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Http.Tracing.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.Core.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Web.Http.OData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Microsoft.Data.Edm.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\Microsoft.Data.OData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\System.Spatial.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\WebMatrix.Data.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\WebMatrix.WebData.xml
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\de\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\es\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\fr\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\it\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\ja\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\ko\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\ru\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\obj\Debug\Padawan.csproj.App.config
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\obj\Debug\Padawan.csprojResolveAssemblyReference.cache
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\obj\Debug\Padawan.dll
+C:\Users\mwright\Source\Repos\Git Team Sandbox\Angular Force\Master\Padawan\obj\Debug\Padawan.pdb

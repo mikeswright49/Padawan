@@ -1,0 +1,9 @@
+﻿{
+    "title": "A Sith's guide to the force",
+    "articles": [
+        { "title": "Don't betray your master", "url": "dont-betray-your-master" },
+        { "title": "Jar Jar Binks is the best star wars character", "url": "jar-jar-binks" },
+        { "title": "Look menacing under a hood", "url": "look-menacing-under-a-hood" }
+    ],
+    "body": "<p>This is the definative guide to a sith's life. We don't do CSS as Sith deal in absolutes. Therefore no color only black and white.<p>"
+}
